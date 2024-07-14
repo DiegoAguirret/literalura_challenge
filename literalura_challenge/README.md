@@ -17,8 +17,8 @@ Filtrado de autores: Admite filtrar autores que estaban vivos después de una fe
 
 ## Tecnologías utilizadas
 
-1. Java: El lenguaje de programación principal utilizado para desarrollar la aplicación.
-2. Spring Boot 3.2
+1. Java
+2. Spring Boot
 3. API Gutendex.com
 4. Base de datos (PostgreSQL)
 
